@@ -6,4 +6,8 @@ This repo contains the materials for the Tableau talks:
 
   + Data files: `airbnb.xls`, `guarini.xls`.
   
-* Second talk (2019-01-25)
+* Second talk (2019-01-25):
+
+  + Slides: `slides.html`.
+  
+  + White papers: `white_papers.zip`.
